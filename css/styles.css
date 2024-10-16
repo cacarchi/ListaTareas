@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%; /* 1rem = 10px (62.5% de 16px) */
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 90vw;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 1rem 0;
+}
+
+li {
+    text-decoration: none;
+    margin: 1rem 0;
+}
